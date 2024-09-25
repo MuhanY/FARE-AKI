@@ -1,0 +1,14 @@
+Confusion Matrix for Adam_Train
+[[59756  2368]
+ [ 7954  4866]]
+AUC is 0.8427
+APR is 0.5746
+ACC Rate is 86.2270%
+
+Confusion Matrix for Adam_Train
+[[59751  2373]
+ [ 7225  5595]]
+AUC is 0.8649
+APR is 0.6275
+ACC Rate is 87.1931%
+

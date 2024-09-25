@@ -1,0 +1,7 @@
+Confusion Matrix for Adam_Test
+[[7627  139]
+ [ 282 1320]]
+AUC is 0.9717
+APR is 0.9112
+ACC Rate is 95.5060%
+
